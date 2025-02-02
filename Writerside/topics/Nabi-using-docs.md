@@ -14,3 +14,8 @@ After you commit and push this workflow, the deploy job will run only if both bu
     Deploy the artifact to GitHub Pages using the actions/deploy-pages@v4.
 
 If the workflow is successful, the deploy job will output the URL to the published documentation.
+
+
+> Some important information
+>
+{style="v"}

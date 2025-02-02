@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="3420c303">
+        <description>Created after removal of "How" from Help Instance</description>
+        <accepts>How.html</accepts>
+    </rule>
+    <rule id="160861c7">
+        <description>Created after removal of "Nabi using docs" from Help Instance</description>
+        <accepts>Nabi-using-docs.html</accepts>
+    </rule>
+    <rule id="4a96d975">
+        <description>Created after removal of "Use semantic attributes in Markdown" from Help Instance</description>
+        <accepts>Play-with-semantic-attributes.html</accepts>
+    </rule>
+    <rule id="632e0400">
+        <description>Created after removal of "Add semantic elements to Markdown" from Help Instance</description>
+        <accepts>Add-semantic-elements-to-Markdown.html</accepts>
+    </rule>
+    <rule id="74f50926">
+        <description>Created after removal of "Convert Markdown to XML" from Help Instance</description>
+        <accepts>Convert-Markdown-to-XML.html</accepts>
+    </rule>
+    <rule id="5e3749bf">
+        <description>Created after removal of "Quickly add images, links, and tables" from Help Instance</description>
+        <accepts>Quickly-add-images-links-and-tables.html</accepts>
+    </rule>
+    <rule id="fcf7949">
+        <description>Created after removal of "Add Mermaid diagrams" from Help Instance</description>
+        <accepts>Add-Mermaid-diagrams.html</accepts>
+    </rule>
+    <rule id="2765cd4b">
+        <description>Created after removal of "Add math formulas" from Help Instance</description>
+        <accepts>Add-math-formulas.html</accepts>
+    </rule>
+    <rule id="378c8a1d">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+</rules>
